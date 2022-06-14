@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    background : rgb(35, 42, 82);
+    color : lightgray;
+}
+h1 {
+    text-align: center;
+    color:lightblue;
+    font-size: 2em;
+}
+form {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+form > * {
+    margin-top : 20px;
+}
+
+a {
+    color: lightcyan;
+}
+a:visited {
+    color:lightgoldenrodyellow;
+}
+table {
+    border : black 2px solid;
+}
+
+th {
+    border: black 1px solid;
+    padding: 5px;
+}
