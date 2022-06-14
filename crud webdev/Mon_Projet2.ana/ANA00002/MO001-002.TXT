@@ -1,0 +1,4 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+users		TAR	620	nouvelle taille enregistrement : 620
+users	User_Admin	CNW	Booléen$Chaîne binaire	la rubrique User_Admin a pour nouveau type Booléen
+users	User_CTR_All	CNW	Booléen$Chaîne binaire	la rubrique User_CTR_All a pour nouveau type Booléen
